@@ -1,0 +1,100 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	line-height: 1.5;
+}
+
+.secction {
+	padding: 30px 10%;
+}
+
+.header {
+	margin-top: 95px;
+	text-align: center;
+}
+
+.header span {
+	font-size: 25px;
+	font-weight: 300;
+    display: block;
+    font-family: inter-medium;
+}
+.header strong {
+    font-size: 33.84px;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-family: inter-black;
+}
+
+.main {
+	text-align: center;
+	margin-top: 68px;
+}
+
+.video, .form {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.form {
+	margin-left: 62px;
+	height: 368px;
+	text-align: center;
+	padding: 20px;
+	border: 5px solid #000;
+} 
+.form-header {
+	margin-top: 16px;
+	margin-bottom: 51px;
+	text-align: center;
+	font-size: 25px;
+    font-weight: 900;
+    font-family: inter-black;
+}
+
+.form input {
+	display: block;
+	margin-top: 16px;
+	width: 300px;
+	font-family: inter-black;
+	font-size: 16.67px;
+	font-weight: 900;
+    padding: 13px;	
+    border: 5px solid #000;
+}
+
+.btn {
+	margin-top: 16px;
+    font-size: 16.67px;
+    font-weight: 900;
+    color: #fff;
+    font-family: inter-black;
+    background-color: #000;
+    border: none;
+    width: 300px;
+    height: 64px;
+    display: block;
+    margin: 11px auto;
+}
+
+.col {
+	display: inline-block;
+    text-align: center;
+    margin: 10px 37px;
+}
+
+.feature-header {
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 900;
+	font-size: 33.84px;
+	margin-top: 80px;
+}
+
+.feature {
+	text-align: center;
+	margin: 63px auto;
+}
+
